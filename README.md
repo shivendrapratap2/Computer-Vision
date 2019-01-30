@@ -1,7 +1,7 @@
 # Computer-Vision, Implementation of CNN
 
 # 1_Layer_CNN
-this file cosist of 1 layer of convolutional layer and pooling layer. 
+this file cosist of 1 layer of each convolutional layer and pooling layer. 
 
  >> Convolution layer, including:
   * Zero Padding
