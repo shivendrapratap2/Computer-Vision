@@ -12,3 +12,5 @@ this file cosist of 1 layer of each convolutional layer and pooling layer.
   * Pooling forward
   * Create mask
   * Distribute value
+  
+# Application of CNN
