@@ -1,3 +1,14 @@
 # Computer-Vision, Implementation of CNN
 
-Applying paddding to images, convolving them using different size filters, applying MAX and AVG pooling.
+# 1_Layer_CNN
+this file cosist of 1 layer of convolutional layer and pooling layer. 
+
+ >> Convolution layer, including:
+  * Zero Padding
+  * Convolve window
+  * Convolution forward
+  
+ >>Pooling layer, including:
+  * Pooling forward
+  * Create mask
+  * Distribute value
