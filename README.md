@@ -14,3 +14,5 @@ this file cosist of 1 layer of each convolutional layer and pooling layer.
   * Distribute value
   
 # Application of CNN
+
+Yet to be updated and upload of necessary file is pending. 
