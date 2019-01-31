@@ -51,7 +51,7 @@ Resnets are neural network of skip connection Designed to solve problem of very 
 
 During training, you might therefore see the magnitude (or norm) of the gradient for the earlier layers descrease to zero very rapidly as training proceeds. To solve this problem of very deep neural networks resnets were invented.
 
-<p align="center"> <img src="Readme1.png"/> </p>
+<p align="center"> <img src="shivendrapratap2/Computer-Vision/Readme1.png"/> </p>
 
  >>Here're some other functions we used in the code below:
  * Conv2D
