@@ -25,7 +25,8 @@ this python program uses tensorflow module of python to design a simple neural n
  * computes the cost
  * creates an optimizer
 
-
+Above neural network is shallow network of few layers, but gives a very fine understanding of basic building blocks of a neural network.
+and many neural networks like this combines up to makes a deep neural network.
 
 
 
