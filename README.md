@@ -40,12 +40,12 @@ Details of the "Happy" dataset:
  
  To train and test a model, there are four steps in Keras:
 
-Create the model by calling the function (Model(inputs = X_input, outputs = X, name='HappyModel')) //from keras.models import Model
-Compile the model by calling model.compile(optimizer = "...", loss = "...", metrics = ["accuracy"])
-Train the model on train data by calling model.fit(x = ..., y = ..., epochs = ..., batch_size = ...)
-Test the model on test data by calling model.evaluate(x = ..., y = ...)
+ * Create the model by calling the function (Model(inputs = X_input, outputs = X, name='HappyModel')) //from keras.models import Model
+ * Compile the model by calling model.compile(optimizer = "...", loss = "...", metrics = ["accuracy"])
+ * Train the model on train data by calling model.fit(x = ..., y = ..., epochs = ..., batch_size = ...)
+ * Test the model on test data by calling model.evaluate(x = ..., y = ...)
 
-
+# Resnets
 
 
 
