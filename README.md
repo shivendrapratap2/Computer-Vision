@@ -29,6 +29,21 @@ Above neural network is shallow network of few layers, but gives a very fine und
 and many neural networks like this combines up to makes a deep neural network.
 
 
+# Happy_house
+
+This happy_house is a neural network designed using keras (a high-level neural networks API (programming framework), written in Python and capable of running on top of several lower-level frameworks including TensorFlow and CNTK.) to decide that person in a image is happy or not. images would be taken by a camera attached on front door of house.
+
+Details of the "Happy" dataset:
+ * Images are of shape (64,64,3)
+ * Training: 600 pictures
+ * Test: 150 pictures
+ 
+ To train and test a model, there are four steps in Keras:
+
+Create the model by calling the function (Model(inputs = X_input, outputs = X, name='HappyModel')) //from keras.models import Model
+Compile the model by calling model.compile(optimizer = "...", loss = "...", metrics = ["accuracy"])
+Train the model on train data by calling model.fit(x = ..., y = ..., epochs = ..., batch_size = ...)
+Test the model on test data by calling model.evaluate(x = ..., y = ...)
 
 
 
