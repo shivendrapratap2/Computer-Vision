@@ -65,9 +65,12 @@ During training, you might therefore see the magnitude (or norm) of the gradient
 
 # car detection with YOLOv2 
 
+YOLO (You Only Look Once) is a popular algoritm because it achieves high accuracy while also being able to run in real-time. This algorithm "only looks once" at the image in the sense that it requires only one forward propagation pass through the network to make predictions. After non-max suppression, it then outputs recognized objects together with the bounding boxes.
 
+Yolo Algorithm for object localisation and detection divides the input image in the grids of 19 X 19. then applies convolution to each
+grid and outputs the probability of detection of an object along with bounding box for that grid.
 
-
-
-
-Yet to be updated and upload of necessary file is pending. 
+ Basic Building block for YOLO:
+ * yolo_filter_boxes (filters those boxes which have very less chance of detection)
+ * intersection over union (IOU, ratio of intersection of two bounding boxes with their area of union)
+ * nonmax supression (to supress those bounding boxes which are trying to detect same object)
