@@ -60,6 +60,7 @@ During training, you might therefore see the magnitude (or norm) of the gradient
  * Max pooling
  * Fully conected layer
  * Addition
+ 
 ![Readme2](https://user-images.githubusercontent.com/35829508/54498271-36017f80-492b-11e9-8440-825c9bfbd78b.PNG)
  
 
