@@ -5,7 +5,7 @@ In this project a real life object detection Keras Model has implemented using a
 
 # Requirements:
 
-Pretrained weights of networks and cfg file to conigure the network.
+i) Pretrained weights of networks and cfg file to conigure the network.
 
 you can download it from YOLO's official website.
 
