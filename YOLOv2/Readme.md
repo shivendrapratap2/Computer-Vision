@@ -3,7 +3,7 @@
 
 In this project a real life object detection Keras Model has implemented using a pretrained YOLOv2 neural network.
 
-# Requirements:
+## Requirements:
 
 i) Pretrained weights of networks and cfg file to configure the network.
 
