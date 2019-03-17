@@ -1,6 +1,6 @@
 # Computer-Vision, Implementation of CNN
 
-# 1_Layer_CNN
+## 1_Layer_CNN
 this file cosist of 1 layer of each convolutional layer and pooling layer. 
 
  >> Convolution layer, including:
@@ -13,7 +13,7 @@ this file cosist of 1 layer of each convolutional layer and pooling layer.
   * Create mask
   * Distribute value
   
-# Application of CNN
+## Application of CNN
 this python program uses tensorflow module of python to design a simple neural network of few conv and pooling layers  which would tell what numerical numbers (0 - 6) a hand sign is showing.
 
  >> The model :
@@ -29,7 +29,7 @@ Above neural network is shallow network of few layers, but gives a very fine und
 and many neural networks like this combines up to makes a deep neural network.
 
 
-# Happy_house
+## Happy_house
 
 This happy_house is a neural network designed using keras (a high-level neural networks API (programming framework), written in Python and capable of running on top of several lower-level frameworks including TensorFlow and CNTK.) to decide that person in a image is happy or not. images would be taken by a camera attached on front door of house.
 
@@ -45,7 +45,7 @@ Details of the "Happy" dataset:
  * Train the model on train data by calling model.fit(x = ..., y = ..., epochs = ..., batch_size = ...)
  * Test the model on test data by calling model.evaluate(x = ..., y = ...)
 
-# Resnets
+## Resnets
 
 Resnets are neural network of skip connection Designed to solve problem of very deep neural networks.
 
