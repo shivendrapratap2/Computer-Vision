@@ -60,7 +60,7 @@ During training, you might therefore see the magnitude (or norm) of the gradient
  * Max pooling
  * Fully conected layer
  * Addition
-<p align="center"> <img src="shivendrapratap2/Computer-Vision/Readme2.png"/> </p> 
+![Readme2](https://user-images.githubusercontent.com/35829508/54498271-36017f80-492b-11e9-8440-825c9bfbd78b.PNG)
  
 
 # car detection with YOLOv2 
