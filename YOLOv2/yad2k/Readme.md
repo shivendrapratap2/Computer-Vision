@@ -9,6 +9,6 @@ along with your downloaded yolo.weights and yolov2.cfg file.
 
 3> now run the command on your terminal (using python3)
 
-#                  python yad2k.py yolov2.cfg yolo.weights <whatever your file name without angular brackets>.h5
+"python yad2k.py yolov2.cfg yolo.weights <whatever your file name without angular brackets>.h5"
   
 this would create your .h5 of weights and you can load it in your model.
