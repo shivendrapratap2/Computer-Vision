@@ -4,7 +4,7 @@ Deep Clustering is performing task of clustering using Deep Nueral Networks.
 
 ![Readme1](https://github.com/shivendrapratap2/Computer-Vision/blob/master/Deep%20Clustering/k-means.jpg)
 
-                                                                                              image source -- Google images
+                                                                  image source -- Google images
 ## Why Deep Learning
 Data pionts to be clustered are multi-dimentional numerical vectors, which are to be seprated on the basis of their euclidean distance.
 But in this case we are going to Cluster a set of images, which can't be considerd as suitable data points (a RGB image of 100X100 size would have vector size of 30000 dimention). 
