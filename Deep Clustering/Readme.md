@@ -4,7 +4,7 @@ Deep Clustering is performing task of clustering using Deep Nueral Networks.
 
 
 
-![Readme1](https://github.com/shivendrapratap2/Computer-Vision/blob/master/Deep%20Clustering/K-means.png)
+![Readme1](https://github.com/shivendrapratap2/Computer-Vision/blob/master/Deep%20Clustering/clustering-Ex.png)
 
                                                                   image source -- Google images
                                                                   
