@@ -1,2 +1,2 @@
 
-##### download models from tesnsorflow object detection api and put them in this folder.
+#### download object detection models from tesnsorflow object detection github repo and put them in this folder.
