@@ -1,4 +1,4 @@
-# Computer-Vision, Implementation of CNN
+# Computer-Vision, Applications of CNN
 
 ## Understanding CNNs
 
